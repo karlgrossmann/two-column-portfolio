@@ -51,7 +51,7 @@ $ cd two-column-portfolio
 $ yarn install
 
 # Run the app
-$ npm dev
+$ yarn dev
 
 # Build the app
 $ yarn build
